@@ -10,4 +10,5 @@ def convert(str(var)):
         ln=ln-1
         print(ans)
 
+
 convert(1011)
